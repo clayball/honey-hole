@@ -4,9 +4,39 @@ The Honey-Hole project is being created for the purpose of managing data collect
 honey pots deployed throughout an organization.
 
 
+## Required software
+
+The following software is required.
+
+- iptables
+- SSH (key auth, fetch honeypot logs from honeyhole)
+- PHP
+
+
+## Setup
+
+### PHP
+
+TODO:
+
+### IPtables
+
+TODO:
+
+
 ## Honey-Hole Project Planning
 
-What are we going to do and how are we going to do it?
+What are we going to do?
+
+- collect data from all honeypots (OSSEC reports)
+- create datasets from our data
+- create a report generation tool
+
+How are we going to do it?
+
+- very carefully
+- with thoughtful execution
+- using as few requirements as possible
 
 
 ### Data Collection
